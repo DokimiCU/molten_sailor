@@ -1,0 +1,85 @@
+License of Boats source code
+----------------------
+
+The MIT License (MIT)
+Copyright (C) 2012-2016 PilzAdam
+Copyright (C) 2012-2016 Various Minetest developers and contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+For more details:
+https://opensource.org/licenses/MIT
+
+
+Licenses of media (textures and model)
+--------------------------------------
+
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+Copyright (C) 2012-2016 Zeg9
+Copyright (C) 2012-2016 thetoon
+Copyright (C) 2012-2016 PavelS(SokolovPavel)
+Copyright (C) 2016 sofar (sofar@foo-projects.org)
+
+You are free to:
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and
+indicate if changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute
+your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that
+legally restrict others from doing anything the license permits.
+
+Notices:
+
+You do not have to comply with the license for elements of the material in the public
+domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary
+for your intended use. For example, other rights such as publicity, privacy, or moral
+rights may limit how you use the material.
+
+For more details:
+http://creativecommons.org/licenses/by-sa/3.0/
+
+
+License of Spacesuit source code
+----------------------
+
+Copyright (C) 2018 Thomas Rudin / Buckaroo Banzay
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+* Spacesuit textures: Anonymous_moose (https://forum.minetest.net/viewtopic.php?p=185473#p185473)
+* textures/spacesuit_overlay.png (https://github.com/bas080/minetest_vignette)
